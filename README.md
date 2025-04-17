@@ -8,3 +8,5 @@
 
 3. APPN0061_RevA1_EthernetIP Function blocks for CODESYS.zip is the App note with sample program and library.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AJ5lRY3rzUo&list=PLA1J90-MlwYe_7ezgWlgshdCeob6Go83Z)
+
+4. EtherCAT sample CODESYS program for single axis. Example program is using MDX+ EtherCAT integrated servo. 
