@@ -5,3 +5,5 @@
 1. CODESYS example programs using Modbus TCP. This applies to all of our EtherNet/IP products, check Modbus manual for more information. 
 
 2. CODESYS library for EtherNet/IP products using Structured Text language.
+
+3. APPN0061_RevA1_EthernetIP Function blocks for CODESYS.zip is the App note with sample program and library. https://www.youtube.com/watch?v=AJ5lRY3rzUo&list=PLA1J90-MlwYe_7ezgWlgshdCeob6Go83Z
