@@ -11,4 +11,4 @@
 
 4. EtherCAT sample CODESYS program for single axis. Example program is using MDX+ EtherCAT integrated servo. 
 
-5. MDX+_M5_AMP_Lib.compiled-library This is an example library, user can take a reference and build more FBs using commnunication manual. 
+5. MDX+_M5_AMP_Lib.compiled-library  This is an example library, user can take a reference and build more FBs using commnunication manual. 
