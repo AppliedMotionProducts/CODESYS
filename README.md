@@ -11,6 +11,6 @@
 
 4. EtherCAT sample CODESYS program for single axis. Example program is using MDX+ EtherCAT integrated servo. 
 
-5. AMP_M5_MDX+_Library_RevA.compild-library This is an example library for MDX+ and M5 servo drive which included FBs for motion control application. Refer product manual for more details. 
+5. AMP_M5_MDX+_Library_RevA.compild-library This is an example library for MDX+ and M5 EtherNet/IP servo  which included FBs for motion control application. Refer product manual for more details. This library can be used in any CODESYS compatible    software. 
 
 6. AMP_Modbus_TCP_Sample file is Modbus TCP example using Applied Motion EtherNet/IP products.
