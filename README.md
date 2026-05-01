@@ -13,5 +13,5 @@
 
 **AMP_Modbus_TCP_Sample** file is Modbus TCP example using Applied Motion EtherNet/IP products.
 
-**AMP_Demo_RevA** file for example program for Robot ARM in reference to CODESYS SCARA3 Kinematics with additional axis Z.
+**EtherCAT Cycle Time Monitoring** file for example program for Robot ARM in reference to CODESYS SCARA3 Kinematics with additional axis Z.
 This program includes how to set up Robot axis, cycle monitoring, programming sample, etc. 
